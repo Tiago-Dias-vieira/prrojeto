@@ -44,8 +44,9 @@ img{
     margin: auto;
     width: 300px;
     margin-top: 2rem;
-    padding: 3px;
+    padding: 0px;
     margin-left: 25px;
+    margin-right: 3rem;
     margin-bottom: 1rem;
     border: solid;
     border-radius: 50%;
